@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Thomas Binet, fr PhD student
-- 👀 Currently working at GEC - UTC (find their work at --> @GEC-git). My project is focus on the design of protein-targeting aptamers. 
-- 🌱 Improving myself in Python and structural Bioinformatics
+- 👋 Hi, I’m Thomas Binet, fr PhD
+- 💼 Currently working Conservatoire National des Arts et métier in Paris.
+- 🔎 My project is focus on the improvment of molecules targeting proteins in order to inhibit protein-protein interactions.
+- 🌱 Improving myself in Python and structural Bioinformatics. I make a lot of scripts to easily process large datasets.
 - 💞️ My works are completely OpenSource and available on @GEC-git
-- 📫 Mail me at thomas.binet@utc.fr
+- 📫 Mail me at thomas.binet@lecnam.net
 
 <!---
 GitHuBinet/GitHuBinet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
