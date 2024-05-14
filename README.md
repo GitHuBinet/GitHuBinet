@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Thomas Binet, fr PhD
+- 👋 Hi, I’m Thomas Binet, 🇫🇷 PhD
 - 💼 Currently working Conservatoire National des Arts et métier in Paris.
 - 🔎 My project is focus on the improvment of molecules targeting proteins in order to inhibit protein-protein interactions.
 - 🌱 Improving myself in Python and structural Bioinformatics. I make a lot of scripts to easily process large datasets.
